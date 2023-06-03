@@ -1,0 +1,452 @@
+07:43:32.375 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:43:32.779 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:43:34.082 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:48:35.385 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+07:48:36.937 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+07:48:37.001 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+07:48:38.155 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:48:38.593 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:48:40.516 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:48:41.066 [main] INFO  testCases.TC_003_DataDriven - Invalid Login pavanoltraining@gmail.com Test Success
+07:48:41.219 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+07:48:41.938 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+07:48:41.943 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+07:48:42.559 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:48:42.960 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:48:44.328 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:48:44.870 [main] INFO  testCases.TC_003_DataDriven - Invalid Login lakshmi@yahoo.com Test Success
+07:48:44.876 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+07:48:45.483 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+07:48:45.484 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+07:48:46.131 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:48:46.561 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:48:47.810 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:48:48.386 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laksh@yahoo.com Test Success
+07:48:48.390 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+07:48:48.997 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+07:48:48.998 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+07:48:49.658 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:48:50.111 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:48:51.481 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:48:52.045 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laks@yahoo.com Test Success
+07:48:52.048 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+07:48:52.714 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+07:48:52.715 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+07:48:53.388 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:48:53.816 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:48:55.336 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:49:16.003 [main] INFO  testCases.TC_003_DataDriven - dashboard presence false
+07:49:16.004 [main] INFO  testCases.TC_003_DataDriven - Login not successful
+07:58:14.170 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+07:58:15.196 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+07:58:15.201 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+07:58:16.306 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:58:18.205 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:58:19.634 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:58:20.188 [main] INFO  testCases.TC_003_DataDriven - Invalid Login pavanoltraining@gmail.com Test Success
+07:58:20.209 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+07:58:20.881 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+07:58:20.885 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+07:58:21.584 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:58:21.995 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:58:23.622 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:58:24.181 [main] INFO  testCases.TC_003_DataDriven - Invalid Login lakshmi@yahoo.com Test Success
+07:58:24.186 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+07:58:24.891 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+07:58:24.891 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+07:58:25.567 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:58:25.998 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:58:27.272 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:58:27.855 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laksh@yahoo.com Test Success
+07:58:27.858 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+07:58:28.488 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+07:58:28.489 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+07:58:29.188 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:58:29.603 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:58:30.918 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:58:31.472 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laks@yahoo.com Test Success
+07:58:31.477 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+07:58:32.338 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+07:58:32.339 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+07:58:33.173 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+07:58:33.645 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+07:58:35.201 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+07:58:55.835 [main] INFO  testCases.TC_003_DataDriven - dashboard presence false
+07:58:55.835 [main] INFO  testCases.TC_003_DataDriven - Login not successful
+08:03:09.042 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:03:12.788 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:03:13.014 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:03:14.435 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:03:14.856 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:03:16.628 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:03:38.306 [main] INFO  testCases.TC_003_DataDriven - dashboard presence false
+08:03:38.307 [main] INFO  testCases.TC_003_DataDriven - Login not successful
+08:03:39.665 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:03:40.606 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:03:40.610 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:03:41.359 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:03:41.777 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:03:43.147 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:03:43.725 [main] INFO  testCases.TC_003_DataDriven - Invalid Login lakshmi@yahoo.com Test Success
+08:03:43.735 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:03:44.455 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:03:44.456 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:03:45.118 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:03:45.567 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:03:46.863 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:03:47.457 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laksh@yahoo.com Test Success
+08:03:47.462 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:03:48.187 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:03:48.188 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:03:48.829 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:03:49.242 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:03:50.616 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:03:51.211 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laks@yahoo.com Test Success
+08:03:51.217 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:03:51.860 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:03:51.861 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:03:52.590 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:03:53.043 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:03:54.625 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:04:15.161 [main] INFO  testCases.TC_003_DataDriven - dashboard presence false
+08:04:15.162 [main] INFO  testCases.TC_003_DataDriven - Login not successful
+08:09:43.353 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:09:48.949 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:09:48.978 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:09:53.936 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:09:54.590 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:09:59.136 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:10:20.005 [main] INFO  testCases.TC_003_DataDriven - dashboard presence false
+08:10:20.005 [main] INFO  testCases.TC_003_DataDriven - Login not successful
+08:10:22.805 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:10:24.792 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:10:24.794 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:10:25.586 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:10:26.022 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:10:27.366 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:10:27.907 [main] INFO  testCases.TC_003_DataDriven - Invalid Login lakshmi@yahoo.com Test Success
+08:10:27.912 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:10:28.715 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:10:28.717 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:10:29.445 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:10:29.892 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:10:31.038 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:10:31.578 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laksh@yahoo.com Test Success
+08:10:31.582 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:10:32.224 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:10:32.225 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:10:32.897 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:10:33.293 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:10:34.592 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:10:35.133 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laks@yahoo.com Test Success
+08:10:35.138 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:10:35.809 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:10:35.810 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:10:36.513 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:10:36.945 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:10:38.919 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:18:40.905 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:18:43.031 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:18:43.045 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:18:48.118 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:18:48.784 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:18:51.909 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:19:12.614 [main] INFO  testCases.TC_003_DataDriven - dashboard presence false
+08:19:12.614 [main] INFO  testCases.TC_003_DataDriven - Login not successful
+08:19:13.971 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:19:14.997 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:19:15.000 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:19:15.877 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:19:16.281 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:19:17.747 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:19:18.335 [main] INFO  testCases.TC_003_DataDriven - Invalid Login lakshmi@yahoo.com Test Success
+08:19:18.343 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:19:19.193 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:19:19.194 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:19:19.833 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:19:20.270 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:19:21.804 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:19:22.357 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laksh@yahoo.com Test Success
+08:19:22.361 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:19:23.104 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:19:23.105 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:19:23.746 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:19:24.148 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:19:25.533 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:19:26.117 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laks@yahoo.com Test Success
+08:19:26.120 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:19:26.937 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:19:26.937 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:19:27.598 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:19:28.009 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:19:29.483 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:32:46.576 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:32:47.946 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:32:47.958 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:32:48.972 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:32:49.399 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:32:51.117 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:33:11.689 [main] INFO  testCases.TC_003_DataDriven - dashboard presence false
+08:33:11.690 [main] INFO  testCases.TC_003_DataDriven - Login not successful
+08:33:13.064 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:33:14.030 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:33:14.032 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:33:14.966 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:33:15.357 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:33:16.960 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:33:17.540 [main] INFO  testCases.TC_003_DataDriven - Invalid Login lakshmi@yahoo.com Test Success
+08:33:17.547 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:33:18.380 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:33:18.381 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:33:19.041 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:33:19.482 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:33:20.819 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:33:21.424 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laksh@yahoo.com Test Success
+08:33:21.429 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:33:22.180 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:33:22.181 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:33:22.865 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:33:23.339 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:33:24.690 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:33:25.227 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laks@yahoo.com Test Success
+08:33:25.230 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:33:25.892 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:33:25.893 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:33:26.578 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:33:27.016 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:33:28.927 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:39:27.877 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:39:29.416 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:39:29.433 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:39:30.896 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:39:31.318 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:39:33.126 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:39:53.755 [main] INFO  testCases.TC_003_DataDriven - dashboard presence false
+08:39:53.755 [main] INFO  testCases.TC_003_DataDriven - Login not successful
+08:39:55.101 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:39:56.263 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:39:56.265 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:39:57.322 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:39:58.076 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:39:59.594 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:40:00.156 [main] INFO  testCases.TC_003_DataDriven - Invalid Login lakshmi@yahoo.com Test Success
+08:40:00.164 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:40:00.815 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:40:00.817 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:40:01.459 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:40:01.916 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:40:03.247 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:40:03.811 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laksh@yahoo.com Test Success
+08:40:03.815 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:40:04.596 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:40:04.596 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:40:05.230 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:40:05.647 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:40:06.970 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:40:07.559 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laks@yahoo.com Test Success
+08:40:07.565 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:40:08.247 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:40:08.247 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:40:08.917 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:40:09.344 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:40:11.006 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:40:31.552 [main] INFO  testCases.TC_003_DataDriven - Login with Invalid sudhavijayarag@gmail.com successful
+08:48:03.792 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:48:12.812 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:48:12.867 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:48:19.287 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:48:21.491 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:48:26.670 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:48:47.606 [main] INFO  testCases.TC_003_DataDriven - dashboard presence false
+08:48:47.606 [main] INFO  testCases.TC_003_DataDriven - Login not successful
+08:48:48.931 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:48:49.820 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:48:49.822 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:48:51.017 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:48:51.496 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:48:53.012 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:48:53.612 [main] INFO  testCases.TC_003_DataDriven - Invalid Login lakshmi@yahoo.com Test Success
+08:48:53.612 [main] INFO  testCases.TC_003_DataDriven - *************** Finished TC_003_DataDrivenTest****************
+08:48:53.617 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:48:54.451 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:48:54.453 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:48:55.143 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:48:55.640 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:48:57.082 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:48:57.659 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laksh@yahoo.com Test Success
+08:48:57.659 [main] INFO  testCases.TC_003_DataDriven - *************** Finished TC_003_DataDrivenTest****************
+08:48:57.663 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:48:58.448 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:48:58.449 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:48:59.104 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:48:59.519 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:49:00.932 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:49:01.529 [main] INFO  testCases.TC_003_DataDriven - Invalid Login laks@yahoo.com Test Success
+08:49:01.530 [main] INFO  testCases.TC_003_DataDriven - *************** Finished TC_003_DataDrivenTest****************
+08:49:01.536 [main] INFO  testCases.TC_003_DataDriven - **********Login Data Driven Test Started***************
+08:49:02.349 [main] INFO  testCases.TC_003_DataDriven - My Account Link Clicked
+08:49:02.349 [main] INFO  testCases.TC_003_DataDriven - Validate Login Page Opened or not
+08:49:03.056 [main] INFO  testCases.TC_003_DataDriven - Login Email Entered
+08:49:03.455 [main] INFO  testCases.TC_003_DataDriven - Login Password Entered
+08:49:05.372 [main] INFO  testCases.TC_003_DataDriven - Login Button Submitted
+08:49:25.933 [main] INFO  testCases.TC_003_DataDriven - Login with Invalid sudhavijayarag@gmail.com successful
+21:22:34.861 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+21:22:35.496 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+21:22:36.721 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+21:22:36.748 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+21:22:39.558 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+21:23:03.904 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+21:23:04.694 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+21:23:05.875 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+21:23:06.548 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+21:23:07.114 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+21:23:07.486 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+21:23:07.550 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+21:25:03.192 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+21:25:03.906 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+21:25:04.671 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+21:25:06.826 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+21:25:07.279 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+21:25:07.391 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+21:25:07.469 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+21:26:24.050 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+21:26:24.663 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+21:26:26.409 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+21:26:26.424 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+21:26:29.217 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+21:36:24.976 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+21:36:25.630 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+21:36:26.915 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+21:36:26.953 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+21:36:29.674 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+21:36:43.332 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+21:36:44.070 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+21:36:47.184 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+21:36:48.418 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+21:36:48.867 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+21:36:49.014 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+21:36:49.077 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+21:40:30.711 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+21:40:31.208 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+21:40:31.952 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+21:40:32.820 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+21:40:33.271 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+21:40:33.406 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+21:40:33.492 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+21:41:02.705 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+21:41:02.936 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+21:41:05.945 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+21:41:06.125 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+21:41:09.024 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+21:41:09.517 [main] INFO  testCases.TC_001_AcctRegistration - Test Failed
+21:42:22.483 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+21:42:23.125 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+21:42:24.098 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+21:42:25.066 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+21:42:25.548 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+21:42:25.649 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+21:42:25.698 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+21:42:56.557 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+21:42:56.818 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+21:42:57.885 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+21:42:57.904 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+21:43:00.619 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+06:59:43.247 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+06:59:51.439 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+06:59:56.206 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+06:59:56.234 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+07:00:00.372 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+07:00:01.207 [main] INFO  testCases.TC_001_AcctRegistration - Test Failed
+07:00:21.273 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+07:00:23.796 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+07:00:25.490 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+07:00:26.436 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+07:00:26.891 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+07:00:27.231 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+07:00:27.388 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+07:01:50.696 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+07:01:51.449 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+07:01:52.693 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+07:01:52.720 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+07:01:55.748 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+07:01:56.412 [main] INFO  testCases.TC_001_AcctRegistration - Test Failed
+07:02:24.499 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+07:02:25.013 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+07:02:25.994 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+07:02:26.908 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+07:02:29.372 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+07:02:29.487 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+07:02:29.532 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+07:03:55.473 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+07:03:57.282 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+07:03:59.899 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+07:03:59.952 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+07:04:10.287 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+07:04:19.395 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+07:04:19.756 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+07:04:20.767 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+07:04:21.595 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+07:04:22.091 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+07:04:23.807 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+07:04:24.062 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+07:35:59.465 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+07:36:01.337 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+07:36:03.670 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+07:36:03.712 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+07:36:07.069 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+07:36:07.540 [main] INFO  testCases.TC_001_AcctRegistration - Test Failed
+07:36:29.457 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+07:36:29.882 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+07:36:32.888 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+07:36:33.472 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+07:36:33.920 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+07:36:34.368 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+07:36:35.048 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+07:42:25.035 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+07:42:28.024 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+07:42:31.840 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+07:42:31.899 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+07:42:43.507 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+07:42:44.199 [main] INFO  testCases.TC_001_AcctRegistration - Test Failed
+07:43:17.114 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+07:43:21.300 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+07:43:22.906 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+07:43:23.489 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+07:43:25.225 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+07:43:25.327 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+07:43:29.950 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+07:47:19.902 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+07:47:20.423 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+07:47:21.433 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+07:47:21.438 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+07:47:24.126 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+07:47:24.309 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration Ended**********
+07:47:45.936 [main] INFO  testCases.TC_002_LoginTest - *********** TC_002_LoginTest Started ******************
+07:47:46.579 [main] INFO  testCases.TC_002_LoginTest - My Account Link clicked
+07:47:47.655 [main] INFO  testCases.TC_002_LoginTest - Login Link clicked
+07:47:48.297 [main] INFO  testCases.TC_002_LoginTest - Email Entered
+07:47:49.350 [main] INFO  testCases.TC_002_LoginTest - Password Entered
+07:47:49.456 [main] INFO  testCases.TC_002_LoginTest - Clicked Login
+07:47:50.809 [main] INFO  testCases.TC_002_LoginTest - Account Title Validation completed
+07:50:39.536 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+07:50:40.225 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+07:50:41.136 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+07:50:41.154 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+07:50:43.834 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+07:50:44.475 [main] INFO  testCases.TC_001_AcctRegistration - Test Failed
+07:56:56.595 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+07:56:57.160 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+07:56:59.294 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+07:56:59.299 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+07:57:02.244 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+07:57:02.854 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration Ended**********
+08:07:10.238 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+08:07:10.994 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+08:07:12.143 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+08:07:12.192 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+08:07:15.440 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+08:15:16.938 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+08:15:17.393 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+08:15:18.172 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+08:15:18.234 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+08:15:20.920 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
