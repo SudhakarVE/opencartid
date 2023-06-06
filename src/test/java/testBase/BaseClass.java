@@ -63,7 +63,7 @@ public void setUp(String br)
 @AfterClass(groups= {"Master","Sanity","Regression"})
 public void tearDown() {
 	System.out.println("After class...");
-	//driver.quit();
+	driver.quit();
 }
 public String randomeString() {
 	String randomString = RandomStringUtils.randomAlphabetic(5);

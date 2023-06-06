@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-03T08:14:52 IST" name="Suite" finished-at="2023-06-03T08:15:24 IST" duration-ms="31929">
+  <suite started-at="2023-06-06T13:45:07 IST" name="Suite" finished-at="2023-06-06T13:45:31 IST" duration-ms="23891">
     <groups>
       <group name="Master">
         <method signature="TC_001_AcctRegistration.test_account_registration()[pri:0, instance:testCases.TC_001_AcctRegistration@79e2c065]" name="test_account_registration" class="testCases.TC_001_AcctRegistration"/>
@@ -11,9 +11,9 @@
         <method signature="TC_001_AcctRegistration.test_account_registration()[pri:0, instance:testCases.TC_001_AcctRegistration@79e2c065]" name="test_account_registration" class="testCases.TC_001_AcctRegistration"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2023-06-03T08:14:52 IST" name="Test" finished-at="2023-06-03T08:15:24 IST" duration-ms="31929">
+    <test started-at="2023-06-06T13:45:07 IST" name="Test" finished-at="2023-06-06T13:45:31 IST" duration-ms="23891">
       <class name="testCases.TC_001_AcctRegistration">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_001_AcctRegistration@79e2c065]" started-at="2023-06-03T08:14:52 IST" name="setUp" finished-at="2023-06-03T08:15:16 IST" duration-ms="23977" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_001_AcctRegistration@79e2c065]" started-at="2023-06-06T13:45:08 IST" name="setUp" finished-at="2023-06-06T13:45:24 IST" duration-ms="16654" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -24,7 +24,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test_account_registration()[pri:0, instance:testCases.TC_001_AcctRegistration@79e2c065]" started-at="2023-06-03T08:15:16 IST" name="test_account_registration" finished-at="2023-06-03T08:15:22 IST" duration-ms="5660" status="FAIL">
+        <test-method signature="test_account_registration()[pri:0, instance:testCases.TC_001_AcctRegistration@79e2c065]" started-at="2023-06-06T13:45:24 IST" name="test_account_registration" finished-at="2023-06-06T13:45:28 IST" duration-ms="3974" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[confirmation message differs expected [Your account has been created!] but found [Register Account]]]>
@@ -75,7 +75,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_account_registration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AcctRegistration@79e2c065]" started-at="2023-06-03T08:15:24 IST" name="tearDown" finished-at="2023-06-03T08:15:24 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AcctRegistration@79e2c065]" started-at="2023-06-06T13:45:29 IST" name="tearDown" finished-at="2023-06-06T13:45:31 IST" duration-ms="1102" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

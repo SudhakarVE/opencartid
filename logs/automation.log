@@ -450,3 +450,13 @@
 08:15:18.172 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
 08:15:18.234 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
 08:15:20.920 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+13:43:01.526 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+13:43:03.052 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+13:43:19.364 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+13:43:19.379 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+13:43:24.650 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+13:45:24.708 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+13:45:25.137 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+13:45:25.895 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+13:45:25.902 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+13:45:28.476 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
