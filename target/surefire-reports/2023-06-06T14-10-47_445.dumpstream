@@ -1,4 +1,4 @@
-# Created at 2023-06-03T08:14:45.204
+# Created at 2023-06-06T14:10:48.329
 Boot Manifest-JAR contains absolute paths in classpath 'E:\CoreJavaWS\opencartid\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
