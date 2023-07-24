@@ -105,7 +105,7 @@ public class UtilityCustomFunctions {
 		}  catch (Exception ex) {
 			//Reporter.log("Exception occured while getValue event " + ex.getMessage());
 			System.out.println("Exception occured while getValue event " + ex.getMessage());
-			throw ex;
+			//throw ex;
 		}
 		return actualValue;
 	}

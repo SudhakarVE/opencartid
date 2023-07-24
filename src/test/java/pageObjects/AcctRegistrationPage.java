@@ -57,6 +57,7 @@ public class AcctRegistrationPage extends BasePage {
 	}
 	public String getConfmMsg() throws Exception{
 		String strConfmMsg = UtilityCustomFunctions.getValue(driver, ele_confmsg);
+		//String strConfmMsg = ele_confmsg.getText();
 		return strConfmMsg;
 	}
 }

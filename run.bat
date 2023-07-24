@@ -1,3 +1,3 @@
 cd E:\CoreJavaWS\opencartid
 e:
-mvn test
+mvn clean test -Dsurefire.suiteXmlFiles=master.xml

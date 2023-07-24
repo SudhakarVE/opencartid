@@ -465,3 +465,71 @@
 14:11:36.633 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
 14:11:37.058 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
 14:11:40.056 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+14:51:36.929 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+14:51:41.494 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+14:51:43.155 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+14:51:43.170 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+14:51:50.256 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+10:27:18.975 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+10:27:19.875 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+10:27:20.755 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+10:27:20.760 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+10:27:24.059 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+10:27:24.789 [main] INFO  testCases.TC_001_AcctRegistration - Test Failed
+10:28:47.474 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+10:28:47.866 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+10:28:48.804 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+10:28:48.809 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+10:28:51.556 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+13:04:11.235 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+13:04:12.737 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+13:04:15.522 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+13:04:15.554 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+13:04:19.315 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+13:04:20.325 [main] INFO  testCases.TC_001_AcctRegistration - Test Failed
+13:11:16.448 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+13:11:17.597 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+13:11:18.886 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+13:11:18.901 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+13:11:24.552 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+13:22:46.781 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+13:22:48.296 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+13:22:50.315 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+13:22:50.337 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+13:22:59.952 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+13:26:40.171 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+13:26:47.146 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+13:26:56.028 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+13:26:56.054 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+13:27:04.614 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+13:27:05.563 [main] INFO  testCases.TC_001_AcctRegistration - Test Failed
+01:18:20.873 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+01:18:24.127 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+01:18:25.468 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+01:18:25.488 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+01:18:29.052 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+01:20:15.510 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+01:20:15.802 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+01:20:17.043 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+01:20:17.046 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+01:20:19.351 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+23:02:48.296 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+23:02:49.848 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+23:02:50.941 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+23:02:50.958 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+23:02:54.248 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+22:35:51.048 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+22:35:52.581 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+22:35:54.538 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+22:35:54.559 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+22:36:03.084 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+10:35:30.101 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+10:35:31.040 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+10:35:32.155 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+10:35:32.214 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+10:35:36.897 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
+11:05:56.063 [main] INFO  testCases.TC_001_AcctRegistration - *************** TC_001_AcctRegisration started**********
+11:05:57.287 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on MyAccount
+11:06:02.556 [main] INFO  testCases.TC_001_AcctRegistration - Clicked on Register
+11:06:02.577 [main] INFO  testCases.TC_001_AcctRegistration - Providing customer data
+11:06:07.433 [main] INFO  testCases.TC_001_AcctRegistration - Clicked Continue
